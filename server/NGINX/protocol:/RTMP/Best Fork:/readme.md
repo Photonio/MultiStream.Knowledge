@@ -2,6 +2,7 @@
 https://github.com/arut/nginx-rtmp-module/forks?include=active&page=1&period=&sort_by=stargazer_counts
 
 ## Sergey-Dryabzhinsky's
+advantages:
 - 1k Stars
 - \> 100 issues
 - Better Documentation
