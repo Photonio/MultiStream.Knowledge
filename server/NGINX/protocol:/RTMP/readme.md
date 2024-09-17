@@ -7,3 +7,5 @@ Home: https://github.com/arut/nginx-rtmp-module
 
 # Guide:
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-video-streaming-server-using-nginx-rtmp-on-ubuntu-20-04
+
+template: https://github.com/Photonio/NGINX-RTMP-stream.template/tree/main/example%3A/Guide%3A/DigitalOcean
