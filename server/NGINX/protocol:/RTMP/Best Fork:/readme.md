@@ -5,7 +5,7 @@ https://github.com/arut/nginx-rtmp-module/forks?include=active&page=1&period=&so
 advantages:
 - 1k Stars
 - \> 100 issues
-- Better Documentation
+- Better [Documentation](https://github.com/sergey-dryabzhinsky/nginx-rtmp-module/tree/dev/doc)
 - 299 commits ahead of, 17 commits behind
 
 Home: https://github.com/sergey-dryabzhinsky/nginx-rtmp-module
