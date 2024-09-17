@@ -1,3 +1,4 @@
-prime: https://github.com/Photonio/MorrowShore-Prism
+Home:
+- our: https://github.com/Photonio/MorrowShore-Prism
 
 Uses NGINX RTMP-module underneath!
